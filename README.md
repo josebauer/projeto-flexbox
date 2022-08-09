@@ -1,2 +1,2 @@
-# projeto-flexbox
-Projeto sobre flexbox, proposto pela DIO.  (FlexTurismo)
+# Projeto Flexbox
+* Projeto sobre flexbox, proposto pela DIO.  (FlexTurismo)
